@@ -8,11 +8,11 @@ redirect_from:
 ---
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/cbc391/cbqcbq2025.github.io) and hosted on GitHub pages. [GitHub pages](https://cbqcbq2025.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
-I am very fortunate to be advised by [Prof.chf](https://www.chf.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+I am very fortunate to be advised by [Prof.chf](https://www.chf.com/) of cbq Lab from [School of Computer Science](https://cnjust.91job.org.cn/), 
 
 You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto:XX@stu.pku.edu.cn) / [Github](https://github.com/QiuDi233) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
+[Email](1115837422@qq.com) / [Github](https://github.com/cbc391) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
 ————————————————
 版权声明：本文为CSDN博主「QiuDi666」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
 原文链接：https://blog.csdn.net/qd1813100174/article/details/128604858
@@ -26,16 +26,15 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 For those users that need more advanced functionality, the template also supports the following popular tools:
 - [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+- [Mermaid](https://mermaid.js.org/) for diagraming [Plotly](https://plotly.com/javascript/) for plotting
 
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
+1. Fork [this template](https://github.com/cbqcbq2025.github.io) by clicking the "Use this template" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
+1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://cbqcbq2025t.github.io) for a user with the username "getorg-testacct")
+1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://cbqcbq2025.github.io/files/example.pdf.  
 1. Check status by going to the repository settings, in the "GitHub pages" section
 
 Site-wide configuration
