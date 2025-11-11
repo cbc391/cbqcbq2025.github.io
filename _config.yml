@@ -23,7 +23,7 @@ repository               : "cbc391/cbqcbq2025.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "kkt001.png"
+  avatar           : https://cbqcbq2025.github.io/images/kkt001.png
   name             : "cbqcbq2025"
   pronouns         : her# example: "she/her"  
   bio              : "Experts and scholars, computer science, action recognition"
