@@ -24,13 +24,13 @@ repository               : "cbc391/cbqcbq2025.github.io"
 author:
   # Biographic information
   avatar           : "kkt001.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  name             : "cbqcbq2025"
+  pronouns         : her# example: "she/her"  
+  bio              : "Experts and scholars, computer science, action recognition"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Nanjing University of Science and Technology"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "1115837422@qq.com" 
 
   # Academic websites
   academia         : # URL
